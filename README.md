@@ -1,1 +1,2 @@
-Banlun Wu's User Page!
+Banlun Wu's User Page
+My favorite programming language is C++
