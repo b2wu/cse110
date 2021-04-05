@@ -1,7 +1,6 @@
-![Image](https://ucsdnews.ucsd.edu/news_uploads/Resized_Geisel_Library_08.31.jpg)
-####Banglun Wu  
-######CSE 110  
-###### SPRING 2021  
+![Image](https://ucsdnews.ucsd.edu/news_uploads/Resized_Geisel_Library_08.31.jpg)  
+###Banglun Wu
+####CSE 110 SPRING 2021  
 **My favorite programming language is C++**  
 **My favorite quote is**  
 > Creativity is just connecting things.  
