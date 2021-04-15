@@ -2,9 +2,8 @@
 # Banglun Wu  
 ## CSE 110  
 ### Winter 2021  
-**I can use C++ and Java**
-My role in my team is backend EQ.  
-I like travling, eating, history, movies, hi-fi headphones&AMPs, racing, stock exchange, and etc.
+**I can use C++ and Java** My role in my team is **Backend EQ**.  
+I am CS major and hope I can add ane Econ minor before I graduate. I like travling, eating, history, movies, hi-fi headphones&AMPs, car racing, stock&cryptocurreny exchange, geopolitics, League of Legends, BFV and etc.
 
 **2021 Academic Calendar**  
 - [x] Winter
