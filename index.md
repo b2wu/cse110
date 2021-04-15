@@ -2,27 +2,14 @@
 # Banglun Wu  
 ## CSE 100  
 ### Winter 2021  
-**My favorite programming language is C++**  
-**My favorite quote is**  
-> Creativity is just connecting things.  
-*By Steve Jobs*  
-`cout<<"Hello World"`  
-**This is my github link**  
-[github pages](https://github.com/b2wu/cse110.git)  
-**Here is a link to my read-me file**  
-[ReadMe](./README.md)
-- Lab1
-- Lab2
-- Lab3
-- Lab4  
-**ordered list:**  
-1. Teammate1
-2. Teammate2
-3. Teammate3
-4. Teammate4
-5. Teammate5  
-**Finish the lab1**  
-- [x] Part1
-- [x] Part2
-- [ ] Part3
+**I can use C++ and Java**
+My role in my team is backend EQ.  
+I like travling, eating, history, movies, hi-fi headphones&AMPs, racing, stock exchange, and etc.
+
+**2021 Academic Calendar**  
+- [x] Winter
+- [ ] Spring
+- [ ] Summer session 1
+- [ ] Summer session 2
+- [ ] Fall
 
